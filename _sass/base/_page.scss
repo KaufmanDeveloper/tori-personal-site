@@ -5,7 +5,9 @@
 ///
 
 /* Basic */
-
+.centered {
+	text-align: center;
+}
 	// MSIE: Required for IEMobile.
 		@-ms-viewport {
 			width: device-width;
