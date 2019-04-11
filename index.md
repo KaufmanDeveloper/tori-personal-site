@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: 'Hi, my name is Tori Pinkard'
 description: null
-image: null
+image: assets/images/pencil.jpeg
 author: null
 show_tile: false
 ---

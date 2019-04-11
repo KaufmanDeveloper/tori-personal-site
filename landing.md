@@ -2,7 +2,7 @@
 title: Professional Development
 layout: landing
 description: 'Self improvement metrics and training'
-image: assets/images/SmokyMountains.jpg
+image: assets/images/notebook.jpeg
 nav-menu: true
 ---
 
