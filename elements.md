@@ -68,6 +68,7 @@ GPA: 3.72
 	<li>Engaged students in regular data chats to teach them to analyze their personal data and areas of growth</li>
 	<li>Organized an after school running club for 3rd-5th grade students</li>
 	<li>Tutored struggling readers in the summer Read to Be Ready Program</li>
+	<li>Received Spotlight on Excellence Award for dedication to Rockford students</li>
 </ul>
 
 <h3>Rockford Elementary School, Maryville, TN</h3>
