@@ -1,0 +1,28 @@
+# site settings
+title: Tori Pinkard
+subtitle: Elementary School Teacher
+email: victoria.kaufman@blountk12.org
+description: I'm an elementary school educator with a love for learning!
+baseurl:  "/tori-personal-site" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author: Tori Pinkard
+street_address: 2720 Avalon Bay Rd
+city: Maryville
+state: TN
+zip_code: 37804
+country: United States of America
+phone: (865) 724 - 7633
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+twitter_url: https://twitter.com/ToriKaufmanRES
+facebook_url: https://www.facebook.com/tori.pinkard.50
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
