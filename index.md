@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Tori Pinkard'
+landing-title: 'Hi, my name is Tori Kaufman'
 description: null
 image: assets/images/pencil.jpeg
 author: null
