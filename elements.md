@@ -2,7 +2,7 @@
 layout: page
 title: Resume
 nav-menu: true
-image: assets/images/tori-door.jpg_large
+image: assets/images/mistakes.png
 ---
 <div id="main" class="alt">
 
